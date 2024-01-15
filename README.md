@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin romain cutte">
     </a>
     <a href="https://profile.intra.42.fr/users/rcutte">
-      <img src="https://img.shields.io/badge/rcutte-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 profil of romain cutte">
+      <img src="https://img.shields.io/badge/rcutte-black?style=for-the-badge&logo=42&logoColor=white" alt="42 profil of romain cutte">
     </a>
   </div>
 
@@ -27,39 +27,48 @@
 
 ## 🛠️ Languages and Tools
 
-### Current
-
 <table>
+  <thead>
+    <tr>
+      <th style="text-align: center;">✍️ Languages</th>
+      <th style="text-align: center;">🛠️ Tools</th>
+      <th style="text-align: center;">💾 Databases</th>
+    </tr>
+  </thead>
   <tr>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML" width="40" height="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS" width="40" height="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown" width="40" height="40">
     </td>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" title="Github and Copilot" width="40" height="40">
     </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" title="Sqlite" width="40" height="40">
   </tr>
 </table>
 
-### Interested in learning
+### 🔭 Interested in learning
 
 <div id="language">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" title="Ruby" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" title="Ruby on Rails" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40">
 </div>
 
 ---
 
 ## 📊 Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tablerase&layout=compact)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tablerase&border_radius=4.55&exclude_days=Sun%2CSat&currStreakNum=6E6761&sideLabels=EB712A&sideNums=6E6761)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tablerase&layout=compact)
 
 ---
 
