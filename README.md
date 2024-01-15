@@ -1,20 +1,20 @@
-<header align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="20%">
 
-  <badges>
+  <div id="badge">
     <a href="https://www.linkedin.com/in/romain-cutt%C3%A9-30946b267/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin romain cutte">
     </a>
     <a href="https://profile.intra.42.fr/users/rcutte">
       <img src="https://img.shields.io/badge/rcutte-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 profil of romain cutte">
     </a>
-  </badges>
+  </div>
 
-  <count>
+  <div id="count">
     <img src="https://komarev.com/ghpvc/?username=Tablerase&style=flat-square&color=blue" alt="count of view on profil github"/>
-  </count>
+  </div>
 
-</header>
+</div>
 
 ---
 ## 👨‍💻 About me
@@ -28,32 +28,33 @@
 ## 🛠️ Languages and Tools
 
 ### Current
-
-<languages>
-  <!-- Back -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-
-  <!-- Front -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
-
-</languages>
-
-<tools>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40">
-</tools>
+<div id="langs_tools" style="display-grid">
+  <div id="language">
+    <!-- Back -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
+    <!-- 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+    -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+    <!-- Front -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
+  </div>
+  
+  <div id="tools">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40">
+  </div>
+</div>
 
 ### Interested in learning
 
-<languages>
+<div id="language">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
-</languages>
+</div>
 
 ---
 
