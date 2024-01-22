@@ -33,6 +33,7 @@
       <th style="text-align: center;">✍️ Languages</th>
       <th style="text-align: center;">🛠️ Tools</th>
       <th style="text-align: center;">💾 Databases</th>
+      <th style="text-align: center;">📋 Documentations</th>
     </tr>
   </thead>
   <tr>
@@ -41,7 +42,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML" width="40" height="40">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown" width="40" height="40">
     </td>
     <td valign="top">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40">
@@ -50,6 +50,11 @@
     </td>
     <td valign="top">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" title="Sqlite" width="40" height="40">
+    </td>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown" width="40" height="40">
+      <img src="http://mermaid.js.org/mermaid-logo.svg" alt="Mermaid" title="Mermaid" width="40" height="40">
+    </td>
   </tr>
 </table>
 
