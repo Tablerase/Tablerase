@@ -53,7 +53,7 @@
     </td>
     <td valign="top">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown" width="40" height="40">
-      <img src="http://mermaid.js.org/mermaid-logo.svg" alt="Mermaid" title="Mermaid" width="40" height="40">
+      <img src="https://www.mermaidchart.com/img/icon-logo.svg" alt="Mermaid" title="Mermaid" width="40" height="40">
     </td>
   </tr>
 </table>
