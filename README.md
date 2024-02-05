@@ -72,8 +72,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tablerase&layout=compact)
 
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tablerase&border_radius=4.55&exclude_days=Sun%2CSat&currStreakNum=6E6761&sideLabels=EB712A&sideNums=6E6761)](https://git.io/streak-stats)
-
+-->
 
 ---
 
