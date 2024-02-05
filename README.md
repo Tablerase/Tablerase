@@ -20,7 +20,7 @@
 ## 👨‍💻 About me
 
 - 🌱 I’m currently learning at [42_Paris](https://42.fr/en/homepage/)
-- 🧡 Fun fact: I'm also a nurse 👨‍⚕️
+- 🧡 Fun fact: I'm also a nurse
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-romain%20cutte-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romain-cutt%C3%A9-30946b267/)
 
 ---
