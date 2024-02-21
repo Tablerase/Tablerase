@@ -58,13 +58,13 @@
   </tr>
 </table>
 
-### 🔭 Interested in learning
+<!-- ### 🔭 Interested in learning
 
 <div id="language">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" title="Ruby" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" title="Ruby on Rails" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40">
-</div>
+</div> -->
 
 ---
 
