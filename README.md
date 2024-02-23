@@ -1,4 +1,10 @@
 <div align="center">
+  <div align="center">
+      <h1>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FE9453&center=true&vCenter=true&width=435&lines=Hey..+I'm+Romain;This+is..;..my+Github..;Don't+hesitate..;..to+reach+me+!" alt="Typing SVG"/>
+      </h1>
+  </div>
+
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="20%">
 
   <div id="badge">
