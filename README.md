@@ -1,8 +1,9 @@
 <div align="center">
   <div align="center">
-      <h1>
+      <!-- <h1>
           <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FE9453&center=true&vCenter=true&width=435&lines=Hey..+I'm+Romain;Don't+hesitate..;..to+reach+me+!" alt="Typing SVG"/>
-      </h1>
+      </h1> -->
+      <img src="./Media/header.svg">
   </div>
 
   <!-- <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="20%"> -->
@@ -38,28 +39,32 @@
     <tr>
       <th style="text-align: center;">✍️ Languages</th>
       <th style="text-align: center;">🛠️ Tools</th>
+      <th style="text-align: center;">🧰 IDE</th>
       <th style="text-align: center;">💾 Databases</th>
       <th style="text-align: center;">📋 Documentations</th>
     </tr>
   </thead>
   <tr>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS" width="40" height="40">
+      <img src="https://skillicons.dev/icons?i=c" alt="C" title="C">
+      <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS">
     </td>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" title="Github and Copilot" width="40" height="40">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
+      <img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github and Copilot">
     </td>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" title="Sqlite" width="40" height="40">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode">
     </td>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown" width="40" height="40">
-      <img src="https://www.mermaidchart.com/img/icon-logo.svg" alt="Mermaid" title="Mermaid" width="40" height="40">
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite" title="Sqlite">
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=md" alt="Markdown" title="Markdown">
+      <img src="https://www.mermaidchart.com/img/icon-logo.svg" alt="Mermaid" title="Mermaid" width="45" height="45">
     </td>
   </tr>
 </table>
@@ -90,23 +95,13 @@
 
 <!-- Sources:
 How to do README: https://www.sitepoint.com/github-profile-readme/
+SVG - Animate Header: https://github.com/brunotacca/brunotacca/tree/main
 Badges: 
-Icons: https://github.com/devicons/devicon/
+Icons: 
+  - https://github.com/devicons/devicon/
+  - https://skillicons.dev/
+Typing SVG: https://readme-typing-svg.herokuapp.com/demo/
 Stats: https://github.com/DenverCoder1/github-readme-streak-stats
 Stats Demo site: https://streak-stats.demolab.com/demo/
 Langs Stats: https://github.com/anuraghazra/github-readme-stats
--->
-
-<!--
-**Tablerase/Tablerase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
