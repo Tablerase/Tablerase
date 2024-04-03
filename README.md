@@ -39,7 +39,7 @@
     <tr>
       <th style="text-align: center;">✍️ Languages</th>
       <th style="text-align: center;">🛠️ Tools</th>
-      <th style="text-align: center;">🧰 IDE</th>
+<!--       <th style="text-align: center;">🧰 IDE</th> -->
       <th style="text-align: center;">💾 Databases</th>
       <th style="text-align: center;">📋 Documentations</th>
     </tr>
@@ -56,9 +56,9 @@
       <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
       <img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github and Copilot">
     </td>
-    <td valign="top">
+<!--     <td valign="top">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode">
-    </td>
+    </td> -->
     <td valign="top">
       <img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite" title="Sqlite">
     </td>
