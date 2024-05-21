@@ -38,6 +38,24 @@
   <thead>
     <tr>
       <th style="text-align: center;">✍️ Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" title="C">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
       <th style="text-align: center;">🛠️ Tools</th>
 <!--       <th style="text-align: center;">🧰 IDE</th> -->
       <th style="text-align: center;">💾 Databases</th>
@@ -46,17 +64,11 @@
   </thead>
   <tr>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=c" alt="C" title="C">
-      <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS">
-    </td>
-    <td valign="top">
       <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
       <img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github and Copilot">
     </td>
-<!--     <td valign="top">
+    <!-- <td valign="top">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode">
     </td> -->
     <td valign="top">
