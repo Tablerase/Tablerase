@@ -26,7 +26,7 @@
 ---
 ## 👨‍💻 About me
 
-- 🌱 I’m currently learning at [42_Paris](https://42.fr/en/homepage/)
+- 🌱 I’m learning at [42_Paris](https://42.fr/en/homepage/)
 - 🧡 Fun fact: I'm also a nurse
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-romain%20cutte-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romain-cutt%C3%A9-30946b267/)
 
@@ -93,8 +93,14 @@
 
 ## 📊 Stats
 
-<!-- langs_count (allow to choose how many languages to display) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tablerase&layout=compact&langs_count=8)
+<!-- Stats endpoint config
+username : name of github profile to target
+langs_count : allow to choose how many languages to display (1 to 20 include)
+hide: choose languages to exclude (language1, language2, ...)
+size_weight and count_weight are use to calculate the percentage
+More infos: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card
+-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tablerase&layout=compact&langs_count=8&size_weight=1&count_weight=0&hide=Vim%20script)
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tablerase&border_radius=4.55&exclude_days=Sun%2CSat&currStreakNum=6E6761&sideLabels=EB712A&sideNums=6E6761)](https://git.io/streak-stats)
