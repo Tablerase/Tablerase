@@ -76,7 +76,7 @@
     </td>
     <td valign="top">
       <img src="https://skillicons.dev/icons?i=md" alt="Markdown" title="Markdown">
-      <img src="https://www.mermaidchart.com/img/icon-logo.svg" alt="Mermaid" title="Mermaid" width="45" height="45">
+      <img src="https://www.mermaidchart.com/img/icon-logo.svg" alt="Mermaid" title="Mermaid" width="48" height="48">
     </td>
   </tr>
 </table>
