@@ -67,6 +67,7 @@
       <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
       <img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github and Copilot">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
     </td>
     <!-- <td valign="top">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode">
