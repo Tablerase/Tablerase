@@ -104,7 +104,11 @@ hide: choose languages to exclude (language1, language2, ...)
 size_weight and count_weight are use to calculate the percentage
 More infos: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tablerase\&layout=compact\&langs_count=10\&size_weight=1\&count_weight=0\&hide=Vim%20script\&bg_color=35,D277E6,9250FD\&title_color=fff\&text_color=fff\&custom_title=Most%20Used%20Languages%20(public%20repos)\&card_width=400)
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tablerase\&layout=compact&langs_count=10&hide=Vim%20script\&bg_color=45,9250FD,D277E6&title_color=fff&text_color=fff&custom_title=Most%20Used%20Languages%20(Public)\&card_width=350\&size_weight=0.5&count_weight=0.5)
+
+</div>
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tablerase&border_radius=4.55&exclude_days=Sun%2CSat&currStreakNum=6E6761&sideLabels=EB712A&sideNums=6E6761)](https://git.io/streak-stats)
