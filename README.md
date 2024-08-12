@@ -41,6 +41,7 @@
   <thead>
     <tr>
       <th style="text-align: center;">✍️ Languages</th>
+      <!-- <th style="text-align: center;">🧰 Framework</th> -->
     </tr>
   </thead>
   <tbody>
@@ -52,6 +53,10 @@
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS">
       </td>
+      <!-- <td valign="top">
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap">
+      </td> -->
     </tr>
   </tbody>
 </table>
@@ -60,7 +65,6 @@
   <thead>
     <tr>
       <th style="text-align: center;">🛠️ Tools</th>
-<!--       <th style="text-align: center;">🧰 IDE</th> -->
       <th style="text-align: center;">💾 Databases</th>
       <th style="text-align: center;">📋 Documentations</th>
     </tr>
