@@ -41,7 +41,7 @@
   <thead>
     <tr>
       <th style="text-align: center;">✍️ Languages</th>
-      <!-- <th style="text-align: center;">🧰 Framework</th> -->
+      <th style="text-align: center;">📚 Frameworks</th>
     </tr>
   </thead>
   <tbody>
@@ -53,10 +53,8 @@
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS">
       </td>
-      <!-- <td valign="top">
+      <td valign="top">
         <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap">
-      </td> -->
     </tr>
   </tbody>
 </table>
@@ -66,7 +64,8 @@
     <tr>
       <th style="text-align: center;">🛠️ Tools</th>
       <th style="text-align: center;">💾 Databases</th>
-      <th style="text-align: center;">📋 Documentations</th>
+      <!-- monitoring -->
+      <th style="text-align: center;">🔍 Monitoring</th>
     </tr>
   </thead>
   <tr>
@@ -75,6 +74,7 @@
       <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
       <img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github and Copilot">
       <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
+      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx">
     </td>
     <!-- <td valign="top">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode">
@@ -83,7 +83,20 @@
       <img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite" title="Sqlite">
     </td>
     <td valign="top">
-      <img src="https://skillicons.dev/icons?i=md" alt="Markdown" title="Markdown">
+      <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana">
+      <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus">
+  </tr>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center;">📋 Documentations</th>
+    </tr>
+  </thead>
+  <tr>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" title="Markdown">
       <img src="https://www.mermaidchart.com/img/icon-logo.svg" alt="Mermaid" title="Mermaid" width="48" height="48">
     </td>
   </tr>
