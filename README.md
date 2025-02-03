@@ -50,11 +50,13 @@
         <img src="https://skillicons.dev/icons?i=c" alt="C" title="C">
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++">
         <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
+        <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" title="Typescript">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS">
       </td>
       <td valign="top">
         <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
     </tr>
   </tbody>
 </table>
