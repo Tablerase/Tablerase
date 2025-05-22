@@ -57,6 +57,7 @@
       <td valign="top">
         <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django">
         <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
+        <img src="https://skillicons.dev/icons?i=react" alt="ReactNative" title="React Native">
     </tr>
   </tbody>
 </table>
