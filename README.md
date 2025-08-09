@@ -27,7 +27,9 @@
 ## 👨‍💻 About me
 
 - 🌱 I’m learning at [42_Paris](https://42.fr/en/homepage/)
-- 🧡 Fun fact: I'm also a nurse
+- 💻 I love coding and learning new technologies
+- 📚 I'm currently focused on full-stack development
+- 🧡 Fun fact: I worked as a nurse
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-romain%20cutte-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romain-cutt%C3%A9-30946b267/)
 
 > [!IMPORTANT]\
