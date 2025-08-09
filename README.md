@@ -55,6 +55,7 @@
         <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" title="Typescript">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash"/>
       </td>
       <td valign="top">
         <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django">
@@ -68,7 +69,7 @@
   <thead>
     <tr>
       <th style="text-align: center;">🛠️ Tools</th>
-      <th style="text-align: center;">💾 Databases</th>
+<!--       <th style="text-align: center;">💾 Databases</th> -->
       <!-- monitoring -->
       <th style="text-align: center;">🔍 Monitoring</th>
     </tr>
@@ -85,9 +86,9 @@
     <!-- <td valign="top">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode">
     </td> -->
-    <td valign="top">
+<!--     <td valign="top">
       <img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite" title="Sqlite">
-    </td>
+    </td> -->
     <td valign="top">
       <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana">
       <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus">
