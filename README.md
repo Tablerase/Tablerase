@@ -80,6 +80,7 @@
       <img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github and Copilot">
       <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
       <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx">
+      <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" title="Ansible"/>
     </td>
     <!-- <td valign="top">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode">
