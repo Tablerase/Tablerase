@@ -82,6 +82,7 @@
       <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
       <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx">
       <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" title="Ansible"/>
+      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="K3S/K3D"/>
     </td>
     <!-- <td valign="top">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode">
