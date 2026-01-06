@@ -24,16 +24,14 @@
 </div>
 
 ---
+
 ## 👨‍💻 About me
 
 - 🌱 I’m learning at [42_Paris](https://42.fr/en/homepage/)
-- 💻 I love coding and learning new technologies
-- 📚 I'm currently focused on full-stack development
-- 🧡 Fun fact: I worked as a nurse
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-romain%20cutte-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romain-cutt%C3%A9-30946b267/)
 
-> [!IMPORTANT]\
-> I'm currently available for internships and job opportunities.
+> [!IMPORTANT]
+> I'm on a mission to bridge healthcare and technology. As a former nurse learning full-stack development, I dream of creating innovative solutions that enhance patient care and make caregivers' lives easier. Interested in collaborating? Let's talk!
 
 ---
 
@@ -148,8 +146,8 @@ More infos: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-fil
 <!-- Sources:
 How to do README: https://www.sitepoint.com/github-profile-readme/
 SVG - Animate Header: https://github.com/brunotacca/brunotacca/tree/main
-Badges: 
-Icons: 
+Badges:
+Icons:
   - https://github.com/devicons/devicon/
   - https://skillicons.dev/
 Typing SVG: https://readme-typing-svg.herokuapp.com/demo/
