@@ -3,7 +3,7 @@
       <!-- <h1>
           <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FE9453&center=true&vCenter=true&width=435&lines=Hey..+I'm+Romain;Don't+hesitate..;..to+reach+me+!" alt="Typing SVG"/>
       </h1> -->
-      <img src="./Media/header.svg"></img>
+      <img src="./assets/readme-journey.svg"></img>
   </div>
 
   <!-- <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="20%"> -->
@@ -59,6 +59,7 @@
         <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django">
         <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
         <img src="https://skillicons.dev/icons?i=react&theme=light" alt="ReactNative" title="React Native">
+        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular">
     </tr>
   </tbody>
 </table>
@@ -118,26 +119,25 @@
 
 ---
 
-## 📊 Stats
+<!-- ## 📊 Stats -->
 
 <!-- Stats endpoint config
 username : name of github profile to target
 langs_count : allow to choose how many languages to display (1 to 20 include)
 hide: choose languages to exclude (language1, language2, ...)
-size_weight and count_weight are use to calculate the percentage
-More infos: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card
+More infos: https://github.com/stats-organization/github-stats-extended/blob/master/docs/advanced_documentation.md#customization
 -->
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tablerase\&layout=compact&langs_count=10&hide=Vim%20script\&bg_color=45,9250FD,D277E6&title_color=fff&text_color=fff&custom_title=Most%20Used%20Languages%20(Public)\&card_width=350\&size_weight=0.5&count_weight=0.5)
 
-</div>
+<!-- <div align="center"> -->
+<!--   <img src="https://github-stats-extended.vercel.app/api?username=Tablerase&show_icons=true&bg_color=45,1f0046,6442ac&title_color=e89d70&text_color=e4e0f7&icon_color=d88c5d&ring_color=e89d70&border_color=6442ac&border_radius=8" alt="GitHub Stats" /> -->
+<!--   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tablerase&layout=compact&langs_count=10&hide=Vim%20script&bg_color=45,1f0046,6442ac&title_color=e89d70&text_color=e4e0f7&custom_title=Most%20Used%20Languages%20(Public)&card_width=350&border_color=6442ac&border_radius=8" alt="Most Used Languages" /> -->
+<!-- </div> -->
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tablerase&border_radius=4.55&exclude_days=Sun%2CSat&currStreakNum=6E6761&sideLabels=EB712A&sideNums=6E6761)](https://git.io/streak-stats)
 -->
 
----
+<!-- --- -->
 
 ## Random Joke
 
