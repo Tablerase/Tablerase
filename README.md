@@ -7,7 +7,7 @@
   </div>
 
   <!-- <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="20%"> -->
-
+<!--
   <div id="badge">
     <a href="https://www.linkedin.com/in/romain-cutt%C3%A9-30946b267/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin romain cutte">
@@ -16,6 +16,7 @@
       <img src="https://img.shields.io/badge/rcutte-black?style=for-the-badge&logo=42&logoColor=white" alt="42 profil of romain cutte">
     </a>
   </div>
+ -->
 
   <div id="count">
     <img src="https://komarev.com/ghpvc/?username=Tablerase&style=flat-square&color=blue" alt="count of view on profil github"/>
@@ -51,8 +52,8 @@
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++">
         <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
         <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" title="Typescript">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS">
         <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash"/>
       </td>
       <td valign="top">
@@ -99,12 +100,16 @@
   <thead>
     <tr>
       <th style="text-align: center;">📋 Documentations</th>
+      <th style="text-align: center;">️ Design Tools</th>
     </tr>
   </thead>
   <tr>
     <td valign="top">
       <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" title="Markdown">
       <img src="https://www.mermaidchart.com/img/icon-logo.svg" alt="Mermaid" title="Mermaid" width="48" height="48">
+    </td>
+    <td valign="top">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma">
     </td>
   </tr>
 </table>

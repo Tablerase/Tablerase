@@ -3,12 +3,15 @@
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700');
 
-    text, tspan {
-      font-family: 'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    text,
+    tspan {
+      font-family: var(--font-family);
     }
 
     /* Brand and palettes converted to CSS custom properties */
     :root {
+      --font-family: 'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
       /* brand color (OKLCH reference) */
       --brand-base: var(--purple);
       --accent-base: var(--orange);
@@ -8307,25 +8310,25 @@
   </style>
   <g id="Scene_-_Readme_Journey" clip-path="url(#clip0_126_317)">
     <text id="Hi___I___m" transform="translate(439 416)" fill="var(--neutral-800)" style="white-space: pre"
-      xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" letter-spacing="0em">
+      xml:space="preserve" font-family="var(--font-family)" font-size="32" font-weight="600" letter-spacing="0em">
       <tspan x="0" y="46">Hi ! I&#x2019;m </tspan>
     </text>
     <g id="Romain_Cutte" filter="url(#filter0_d_126_317)" transform="translate(514 416)">
       <text id="Romain_Cutte_bg_0" fill="var(--orange-600)" style="white-space: pre" xml:space="preserve"
-        font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" letter-spacing="0em">
+        font-family="var(--font-family)" font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="47.5312" y="46">Romain CUTTE</tspan>
       </text>
     </g>
     <g id="I_spent_my_early_career_working_as_a_Nurse" transform="translate(350 424)">
       <text id="I_spent_my_early_career_working_as_a_Nurse_bg_0" fill="black" style="white-space: pre"
-        xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" letter-spacing="0em">
+        xml:space="preserve" font-family="var(--font-family)" font-size="32" font-weight="600" letter-spacing="0em">
         <tspan x="230.266" y="72"> </tspan>
       </text>
-      <text fill="var(--orange-600)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--orange-600)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="239.172" y="72">Nurse</tspan>
       </text>
-      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="600" letter-spacing="0em">
         <tspan x="5.09375" y="32">I spent my early career working </tspan>
         <tspan x="166.328" y="72">as a</tspan>
@@ -8333,32 +8336,32 @@
     </g>
     <g id="Every_day__I_dealt_with_frustrating_software_limitations" transform="translate(350 424)">
       <text id="Every_day__I_dealt_with_frustrating_software_limitations_bg_0" fill="var(--neutral-800)"
-        style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="600"
+        style="white-space: pre" xml:space="preserve" font-family="var(--font-family)" font-size="32" font-weight="600"
         letter-spacing="0em">
         <tspan x="79.0469" y="32">Every day, I dealt with </tspan>
         <tspan x="9.07812" y="72">frustrating software </tspan>
       </text>
-      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="600" letter-spacing="0em">
         <tspan x="328.891" y="72">limitations</tspan>
       </text>
     </g>
     <g id="I_knew_there_had_to_be_a_way_to_build_better_tools_for_Caregivers" transform="translate(350 424)">
       <text id="I_knew_there_had_to_be_a_way_to_build_better_tools_for_Caregivers_bg_0" fill="var(--neutral-800)"
-        style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="600"
+        style="white-space: pre" xml:space="preserve" font-family="var(--font-family)" font-size="32" font-weight="600"
         letter-spacing="0em">
         <tspan x="6.04688" y="32">I knew there had to be a way to </tspan>
         <tspan x="264.234" y="72"> for</tspan>
       </text>
-      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="318.391" y="72"> </tspan>
       </text>
-      <text fill="var(--orange-600)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--orange-600)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="327.359" y="72">Caregivers</tspan>
       </text>
-      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="600" letter-spacing="0em">
         <tspan x="2.64062" y="72">build better tools</tspan>
       </text>
@@ -8366,68 +8369,68 @@
     <g id="Driven_by_a_lifelong_love_for_tech__I_dove_headfirst_into_computer_science_and_programming"
       transform="translate(339 85)">
       <text id="Driven_by_a_lifelong_love_for_tech__I_dove_headfirst_into_computer_science_and_programming_bg_0"
-        fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32"
-        font-weight="600" letter-spacing="0em">
+        fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
+        font-size="32" font-weight="600" letter-spacing="0em">
         <tspan x="6.40625" y="32">Driven by a </tspan>
         <tspan x="379.625" y="32"> for tech, </tspan>
         <tspan x="27.9844" y="72">I dove headfirst into </tspan>
         <tspan x="173.188" y="112"> and </tspan>
       </text>
-      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="190.031" y="32">lifelong love</tspan>
       </text>
-      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="190.031" y="32">lifelong love</tspan>
       </text>
-      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="344.359" y="72">computer </tspan>
         <tspan x="60.125" y="112">science</tspan>
       </text>
-      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="249.625" y="112">programming</tspan>
       </text>
     </g>
     <g id="Climbing_the_learning_curve____one_segfault_at_a_time" transform="translate(52 107)">
       <text id="Climbing_the_learning_curve____one_segfault_at_a_time_bg_0" fill="var(--neutral-800)"
-        style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="600"
+        style="white-space: pre" xml:space="preserve" font-family="var(--font-family)" font-size="32" font-weight="600"
         letter-spacing="0em">
         <tspan x="27.5156" y="32">Climbing the </tspan>
         <tspan x="351.672" y="32"> curve... </tspan>
         <tspan x="78.7812" y="72">one segfault at a time</tspan>
       </text>
-      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="600" letter-spacing="0em">
         <tspan x="226.453" y="32">learning</tspan>
       </text>
-      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="600" letter-spacing="0em">
         <tspan x="226.453" y="32">learning</tspan>
       </text>
     </g>
     <g id="Let_s_build_something_great_together_" transform="translate(49 107)">
       <text id="Let_s_build_something_great_together__bg_0" fill="var(--neutral-800)" style="white-space: pre"
-        xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" letter-spacing="0em">
+        xml:space="preserve" font-family="var(--font-family)" font-size="32" font-weight="600" letter-spacing="0em">
         <tspan x="39.8281" y="32">Let&#39;s </tspan>
         <tspan x="194.078" y="32"> something great </tspan>
         <tspan x="312.234" y="72">!</tspan>
       </text>
-      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="119.234" y="32">build</tspan>
       </text>
-      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--purple-600)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="119.234" y="32">build</tspan>
       </text>
-      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--neutral-800)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="176.078" y="72">together</tspan>
       </text>
-      <text fill="var(--orange-600)" style="white-space: pre" xml:space="preserve" font-family="'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      <text fill="var(--orange-600)" style="white-space: pre" xml:space="preserve" font-family="var(--font-family)"
         font-size="32" font-weight="bold" letter-spacing="0em">
         <tspan x="176.078" y="72">together</tspan>
       </text>
@@ -9206,7 +9209,7 @@
         </g>
       </g>
     </g>
-    <a href="https://www.linkedin.com/in/romain-cutte" target="_blank">
+    <a href="https://www.linkedin.com/in/romain-cutte">
       <g id="Cloud-Linkedin" transform="translate(2896 -195)">
         <g id="Cloud-Linkedin_2" opacity="0.95" filter="url(#filter7_f_126_317)">
           <g id="rock_41" transform="translate(-34.6341 228.442) rotate(-41.1628)">
