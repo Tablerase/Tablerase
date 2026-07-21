@@ -3,7 +3,9 @@
       <!-- <h1>
           <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FE9453&center=true&vCenter=true&width=435&lines=Hey..+I'm+Romain;Don't+hesitate..;..to+reach+me+!" alt="Typing SVG"/>
       </h1> -->
+    <a href="https://www.linkedin.com/in/romain-cutte">
       <img src="./assets/readme-journey.svg"></img>
+    </a>
   </div>
 
   <!-- <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="20%"> -->
@@ -29,7 +31,7 @@
 ## 👨‍💻 About me
 
 - 🌱 I’m learning at [42_Paris](https://42.fr/en/homepage/)
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-romain%20cutte-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romain-cutt%C3%A9-30946b267/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-romain%20cutte-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romain-cutte)
 
 > [!IMPORTANT]
 > I'm on a mission to bridge healthcare and technology. As a former nurse learning full-stack development, I dream of creating innovative solutions that enhance patient care and make caregivers' lives easier. Interested in collaborating? Let's talk!
