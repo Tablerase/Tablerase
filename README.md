@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About me
 
-- 🌱 I’m learning at [42_Paris](https://42.fr/en/homepage/)
+- 🌱 I’m learning at [42 Paris](https://42.fr/en/homepage/)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-romain%20cutte-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romain-cutte)
 
 > [!IMPORTANT]
